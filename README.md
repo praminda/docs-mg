@@ -2,15 +2,15 @@
 
 # WSO2 API Microgateway Documentation
 
-[![BUILD STATUS](https://wso2.org/jenkins/view/docs/job/docs/job/docs-mgw/badge/icon)(https://wso2.org/jenkins/view/docs/job/docs/job/docs-mgw)]
+[![BUILD STATUS](https://wso2.org/jenkins/view/docs/job/docs/job/docs-mgw/badge/icon)](https://wso2.org/jenkins/view/docs/job/docs/job/docs-mgw)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-wso2mgw-orange)](https://stackoverflow.com/tags/wso2-mgw/)
-[![slack](https://img.shields.io/badge/slack-wso2--apim-blueviolet)](https://join.slack.com/t/wso2-apim/shared_invite/enQtNzEzMzk5Njc5MzM0LTgwODI3NmQ1MjI0ZDQyMGNmZGI4ZjdkZmI1ZWZmMjNkY2E0NmY3ZmExYjkxYThjNzNkOTU2NWJmYzM4YzZiOWU?src=sidebar)
+[![slack](https://img.shields.io/badge/slack-microgateway-blueviolet)](https://wso2-apim.slack.com)
 
 ---
 
 This is the documentation for the upcoming release of WSO2 API Microgateway (WSO2 MG). Please note that this documentation is work in progress.
 
-To see the **latest released documentation** for the WSO2 API Microgateway, go to: https://docs.wso2.com/display/MG310/
+To see the **latest released documentation** for the WSO2 API Microgateway, go to: https://mg.docs.wso2.com/en/latest/
 
 ## Contributing to WSO2 API Microgateway documentation
 
